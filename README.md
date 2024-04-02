@@ -139,7 +139,8 @@ plt.show()
 
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/266901df-55d7-4bb4-8441-43025db30741)
 
-![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/af78fb4e-9ae7-4b28-bec3-bb36945b2b06)
+![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/20aa561a-0f9a-4675-b210-fc973b39d6c9)
+
 
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/b012c578-d6fa-4040-8d06-3a0cdf204904)
 
