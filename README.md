@@ -135,8 +135,12 @@ plt.show()
 # OUTPUT:
 ### df.head()
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/710593a2-68c4-466e-95f6-b18673f05d71)
+
+
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/266901df-55d7-4bb4-8441-43025db30741)
+
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/af78fb4e-9ae7-4b28-bec3-bb36945b2b06)
+
 ![image](https://github.com/VinithaNaidu/Ex-2--NN/assets/121166004/b012c578-d6fa-4040-8d06-3a0cdf204904)
 
 # RESULT:
