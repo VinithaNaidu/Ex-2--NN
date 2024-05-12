@@ -1,6 +1,6 @@
-<H3>Name:D.Vinitha Naidu</H3>
+<H3>Name:D.Vinitha </H3>
 <H3>Register no: 212222230175</H3>
-<H3>Date</H3>
+<H3>Date :</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
